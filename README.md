@@ -8,24 +8,24 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * [NYM](https://mixnet.explorers.guru/mixnode/BVDVtmNbZRgPKU81uBkrgfj5TnhtZqQcPAwxD48jcfMd)
 
 ## Testnet participant
-* Mina Protocol
-* Solana
 * Agoric
-* HOPR
-* NYM
-* Stacks
-* Casper
-* Ironfish
 * Aleo
-* Umee
-* Swarm
-* Evmos
-* KiChain
 * Archway
 * Axelar
+* Casper
 * Celestia
 * Chainflip
 * DeFund
+* Evmos
+* HOPR
+* Ironfish
+* KiChain
+* Mina Protocol
+* NYM
 * Qicksilver
 * Sei
+* Solana
+* Stacks
 * Stafi
+* Swarm
+* Umee
