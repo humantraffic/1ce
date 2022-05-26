@@ -1,5 +1,5 @@
-# 1ce
-Here is information about my validator.
+# Introduction
+Here is information about my validator. My moniker in all network - 1ce. I am a blockchain enthusiast. i am from Decentraland.
 ## Mainnet
 - [Mina Protocol](https://mina.staketab.com/mainnet/validator/B62qpwXadr3bwPsV5M7NSTZUGRaED3FPy4Ju517PqTZWWfjS8h2dy9K)
 - [Solana](https://www.validators.app/?q=Cr3NTaeoAVcT2qJsXxyx3V3XraVWD7Mje3TGzvK9xwsq&network=mainnet&order=&refresh=&commit=Search)
