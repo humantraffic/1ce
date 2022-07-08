@@ -1,5 +1,5 @@
 # Introduction
-Here is information about my validator. My moniker in all network - **1ce**. I am a blockchain enthusiast and from Decentraland.
+Here is information about my validator. My moniker in all network - **1ce**. I am a blockchain enthusiast, DevOps and validator.
 
 ## Mainnet
 ### Stake with me
