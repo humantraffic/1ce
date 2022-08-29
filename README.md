@@ -8,6 +8,7 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * [Agoric](https://agoric.explorers.guru/validator/agoricvaloper19zqc6h7d3lff204rsr02qzxceea7kule54j0hw)
 * [Gravity Bridge](https://gravity.explorers.guru/validator/gravityvaloper1xuegmnp2q89nf0y2gt8fwn6c0tghrpnw7px2as)
 * [NYM](https://mixnet.explorers.guru/mixnode/BVDVtmNbZRgPKU81uBkrgfj5TnhtZqQcPAwxD48jcfMd)
+* Qicksilver - soon
 
 ## Testnet participant
 * Agoric
