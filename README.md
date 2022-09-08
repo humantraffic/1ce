@@ -31,4 +31,5 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * Stacks
 * Stafi
 * Swarm
+* Teritori
 * Umee
