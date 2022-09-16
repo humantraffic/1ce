@@ -9,6 +9,7 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * [Gravity Bridge](https://gravity.explorers.guru/validator/gravityvaloper1xuegmnp2q89nf0y2gt8fwn6c0tghrpnw7px2as)
 * [NYM](https://mixnet.explorers.guru/mixnode/BVDVtmNbZRgPKU81uBkrgfj5TnhtZqQcPAwxD48jcfMd)
 * Qicksilver - soon
+* [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1gxshuvvrspyntrstxj4afhs4sh44jr84e5drvc)
 
 ## Testnet participant
 * Agoric
