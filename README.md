@@ -10,7 +10,7 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * [NYM](https://mixnet.explorers.guru/mixnode/BVDVtmNbZRgPKU81uBkrgfj5TnhtZqQcPAwxD48jcfMd)
 * [Qicksilver] - soon
 * [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1gxshuvvrspyntrstxj4afhs4sh44jr84e5drvc)
-* [The Graph] (https://thegraph.com/explorer/profile?id=0xa7b07d3305d25306986eb50c0af30a48f067a99e&view=Indexing)
+* [The Graph](https://thegraph.com/explorer/profile?id=0xa7b07d3305d25306986eb50c0af30a48f067a99e&view=Indexing)
 
 ## Testnet participant
 * Agoric
