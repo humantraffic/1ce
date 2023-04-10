@@ -17,18 +17,22 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 ## Testnet participant
 * Agoric
 * Aleo
+* Althea
 * Archway
 * Axelar
 * Casper
 * Celestia
 * Chainflip
 * DeFund
+* Dymension
 * Evmos
 * HOPR
 * Ironfish
+* Lava Network
 * KiChain
 * Mina Protocol
 * NYM
+* Ojo
 * Qicksilver
 * Sei
 * Solana
