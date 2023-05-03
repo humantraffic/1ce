@@ -18,6 +18,7 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * Agoric
 * Aleo
 * Althea
+* Anoma
 * Archway
 * Axelar
 * Casper
