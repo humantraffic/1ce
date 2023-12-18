@@ -7,7 +7,7 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * [Band Protocol](https://www.cosmoscan.io/validator/bandvaloper1pjhgksl4nhrahxam6l6fg4v8z8r5c68504szuq#reports)
 * [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1xuegmnp2q89nf0y2gt8fwn6c0tghrpnw7px2as)
 * [Jackal](https://explorer.stavr.tech/jackal/staking/jklvaloper1vrcyummz0zvc0s53rzaxkr7x6ra3ekfqke50g4)
-* [Mina Protocol](https://mina.staketab.com/mainnet/validator/B62qpwXadr3bwPsV5M7NSTZUGRaED3FPy4Ju517PqTZWWfjS8h2dy9K)
+* [Mina Protocol](https://minascan.io/mainnet/validator/B62qpwXadr3bwPsV5M7NSTZUGRaED3FPy4Ju517PqTZWWfjS8h2dy9K/delegationsv)
 * [NYM](https://mixnet.explorers.guru/mixnode/BVDVtmNbZRgPKU81uBkrgfj5TnhtZqQcPAwxD48jcfMd)
 * [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1y262p2k5xm5u48z029g53dp7nas488ddur279j)
 * [Solana](https://www.validators.app/validators/Cr3NTaeoAVcT2qJsXxyx3V3XraVWD7Mje3TGzvK9xwsq?locale=en&network=mainnet&order=&refresh=)
