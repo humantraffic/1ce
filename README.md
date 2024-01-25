@@ -25,13 +25,16 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * Celestia
 * Chainflip
 * DeFund
+* Dora Factory
 * Dymension
 * Evmos
 * HOPR
 * Ironfish
+* Jackal
 * Lava Network
 * KiChain
 * Mina Protocol
+* Namada
 * NYM
 * Obol
 * Ojo
@@ -42,5 +45,6 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * Stader
 * Stafi
 * Swarm
+* The Graph
 * Teritori
 * Umee
