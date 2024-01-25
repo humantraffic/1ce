@@ -48,3 +48,4 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * The Graph
 * Teritori
 * Umee
+* and etc
