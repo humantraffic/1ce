@@ -5,6 +5,7 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 ### Stake with me
 * [Agoric](https://agoric.explorers.guru/validator/agoricvaloper19zqc6h7d3lff204rsr02qzxceea7kule54j0hw)
 * [Band Protocol](https://www.cosmoscan.io/validator/bandvaloper1pjhgksl4nhrahxam6l6fg4v8z8r5c68504szuq#reports)
+* [Dymension](https://dymension.explorers.guru/validator/dymvaloper1dg73hcnt00uhsuffakkjyth8qz2un40486h92f)
 * [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1xuegmnp2q89nf0y2gt8fwn6c0tghrpnw7px2as)
 * [Jackal](https://explorer.stavr.tech/Jackal/staking/jklvaloper1vrcyummz0zvc0s53rzaxkr7x6ra3ekfqke50g4)
 * [Mina Protocol](https://minascan.io/mainnet/validator/B62qpwXadr3bwPsV5M7NSTZUGRaED3FPy4Ju517PqTZWWfjS8h2dy9K/delegations)
