@@ -15,7 +15,7 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1gxshuvvrspyntrstxj4afhs4sh44jr84e5drvc)
 
 Contact: 
-* tg- @ice1ceice
+* tg - [@ice1ceice](https://t.me/ice1ceice)
 * Discord - 1ce
 
 ## Testnet participant
