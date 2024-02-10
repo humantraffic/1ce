@@ -14,6 +14,9 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * [Solana](https://www.validators.app/validators/Cr3NTaeoAVcT2qJsXxyx3V3XraVWD7Mje3TGzvK9xwsq?locale=en&network=mainnet&order=&refresh=)
 * [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1gxshuvvrspyntrstxj4afhs4sh44jr84e5drvc)
 
+Contact: 
+tg- @ice1ceice
+Discord - 1ce
 
 ## Testnet participant
 * Agoric
