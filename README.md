@@ -1,4 +1,4 @@
-kas# Introduction
+# Introduction
 Here is information about my validator. My moniker in all network - **1ce**. I am a blockchain enthusiast, DevOps and validator. Delegate to support decentralization.
 
 ## Mainnet
