@@ -8,7 +8,6 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 * [Dora](https://dora.explorers.guru/validator/doravaloper1x5z0tkafrgyeuqkrwfjr933vghjxchqnqlhcdw)
 * [Dymension](https://dymension.explorers.guru/validator/dymvaloper1dg73hcnt00uhsuffakkjyth8qz2un40486h92f)
 * [Ika](https://ikascan.io/mainnet/operator/0x723b54576b95f2d9131c89ec1db65c72bc44a8d8884874c73277c396539198fa)
-* [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1xuegmnp2q89nf0y2gt8fwn6c0tghrpnw7px2as)
 * [Mina Protocol](https://minascan.io/mainnet/validator/B62qpwXadr3bwPsV5M7NSTZUGRaED3FPy4Ju517PqTZWWfjS8h2dy9K/delegations)
 * [NYM](https://explorer.nym.spectredao.net/nodes/BVDVtmNbZRgPKU81uBkrgfj5TnhtZqQcPAwxD48jcfMd)
 
