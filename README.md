@@ -3,7 +3,6 @@ Here is information about my validator. My moniker in all network - **1ce**. I a
 
 ## Mainnet
 ### Stake with me
-* [Agoric](https://agoric.explorers.guru/validator/agoricvaloper19zqc6h7d3lff204rsr02qzxceea7kule54j0hw)
 * [Althea](https://althea.explorers.guru/validator/altheavaloper1sz0j8az3yvj37lak3k99vy5l25hnmrggmxltjv)
 * [Dora](https://dora.explorers.guru/validator/doravaloper1x5z0tkafrgyeuqkrwfjr933vghjxchqnqlhcdw)
 * [Dymension](https://dymension.explorers.guru/validator/dymvaloper1dg73hcnt00uhsuffakkjyth8qz2un40486h92f)
