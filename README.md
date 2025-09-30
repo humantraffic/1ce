@@ -30,6 +30,7 @@ Contact:
 * Dymension
 * Evmos
 * HOPR
+* Ika
 * Ironfish
 * Jackal
 * Lava Network
